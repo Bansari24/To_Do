@@ -21,3 +21,9 @@ To rebuild and run:
 docker-compose down && docker-compose build && docker-compose up -d
 ```
 
+# ScreenShots
+![todo1](https://user-images.githubusercontent.com/57503162/82068655-4680c780-96a0-11ea-8d2c-9eee957a4abb.jpeg)
+![todo2](https://user-images.githubusercontent.com/57503162/82068656-4680c780-96a0-11ea-9f81-f9040f09f892.jpeg)
+![todo3](https://user-images.githubusercontent.com/57503162/82068659-4680c780-96a0-11ea-9504-f761686af413.jpeg)
+![todo4](https://user-images.githubusercontent.com/57503162/82068660-47195e00-96a0-11ea-843f-d813e0fc4ec2.jpeg)
+
